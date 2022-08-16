@@ -2,6 +2,8 @@
 
 > This repository holds a sample database for a clinic that's created from the given image below.
 
+![clinic_diagram](https://user-images.githubusercontent.com/29539518/184879487-f91e98cf-90c2-4ca3-b100-29c59d20d0a2.png)
+
 
 ## Getting Started
 
