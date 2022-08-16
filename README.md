@@ -1,7 +1,6 @@
-# curriculum-databases-projects-template
+# Clinic Database
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+> This repository holds a sample database for a clinic that's created from the given image below.
 
 
 ## Getting Started
@@ -17,15 +16,14 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@NatiDeme](https://github.com/NatiDeme)
+- Twitter: [@NatiDemelash](https://twitter.com/NatiDemelash)
+- LinkedIn: [Natnael Demelash](https://www.linkedin.com/in/natnael-demelash/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Sahar Saba Amiri**
+- . Gmail: saharsaba.amiri123@gmail.com
+- . LinkedIn: https://www.linkedin.com/sahar-saba-amiri
+- . GitHub : https://github.com/Sahar-SE
 
 ## 🤝 Contributing
 
@@ -37,11 +35,10 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## Acknowledgement
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
+- Thank you for Microverse and my programming partners!
 
 ## 📝 License
 
